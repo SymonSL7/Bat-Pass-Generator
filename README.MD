@@ -1,109 +1,58 @@
-<div align="center">
-  <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
-  </a>
+<h1 align="left">Olá 👋, tudo bem?</h1>
 
-  <!-- project name -->
-  <h1 align="center">Bat Password Generator</h1>
-  
-  <!-- project badges -->
-  <p align="center">
- <!--
-   <img 
-      alt="Project programing languages count" 
-      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
- -->
-  <!--
-    <img 
-      alt="Last commit on GitHub" 
-      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
-  -->
-    <img 
-      alt="Made by Felipe Aguiar" 
-      src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
-    >
-    <img 
-      alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
-    >
-    <img 
-      alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
-    >
-    <img 
-      alt="GitHub license" 
-      src="https://img.shields.io/github/license/felipeAguiarCode/react-native-bat-pass-generator?color=6A57D5"
-    >
-  </p> 
+###
 
-  <!-- project description and menu -->
-  <p align="center">
-      An App to generate strong passwords.
-    <br />
-    <a 
-      href="## Usage">
-      <strong>Go to usage now »</strong>
-    </a>
-    <br />
-    <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues/new">
-      Request Feature
-    </a>
-  </p>
+<p align="left">Meu nome é Symon Silva Lima, sou formado em Técnico em Desenvolvimento de Sistemas pelo Senai Fatec e atualmente estou cursando o superior em Análise e Desenvolvimento de Sistemas na PUC Minas.</p>
+
+###
+
+<h1>Descrição de Projeto:</h1>
+<p> 
+
+<h3>Bat Pass Generator</h3>
+
+<p> Projeto do curso da DIO, de React Native </p>
+
+</p>
+
+###
+
+<h2 align="left">Habilidades desenvolvidas neste projeto:</h2>
+
+###
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
+
 </div>
 
-## Preview
+###
 
-<div align="center">
-  <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+<h2 align="left">Conecte-se comigo:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/symonsilvalima/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:symon.silva.lima@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
-## 🔥 Features
-- [x] Generate a random Strong Password;
-- [x] Copy Pass to Clipboard;
+###
 
-## Technologies
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SymonSL7.SymonSL7&left_color=blue&right_color=cadetblue"  />
+</div>
 
-This project was developed with the following technologies:
+###
 
--   [React Native](https://reactnative.dev/)
--   [Expo](https://docs.expo.dev/)
+<div> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SymonSL7&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-
-
-## Building
-
-You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
-
-```bash
-git clone https://github.com/felipeAguiarCode/react-native-bat-pass-generator.git
-$ cd react-native-bat-pass-generator
-$ npm install
-$ npm run start
-```
-
-## Usage
-
-🔧 Run the script
-
-```bash
-$ npm run start
-```
-
-Runs the app in the development mode.<br/>
-
-## Autor
-
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+###
